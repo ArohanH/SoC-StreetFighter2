@@ -10,5 +10,5 @@ This is the repo containing my final project for SoC 2023 by WnCC, IIT Bombay
 * Conclusions:
   - For the first training period, the agent did not perform at all as the corresponding Q values that the neural network predicted for different actions were same   for all the states which shows that that the neural network didn't train properly which may be due to reasons like overfitting etc. After investigating and       
 discussing with my mentor, I came out with certain possible reasons such as.
-      - 
+    
   
